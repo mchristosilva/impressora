@@ -79,7 +79,7 @@ def ver_Arquivo(arquivo):
     else:
         f = open(arquivo, 'at')
 
-    return str(f).upper()
+    return f
 
 def ver_Pasta(pasta):
     existe = os.path.exists(pasta)
@@ -89,7 +89,7 @@ def ver_Pasta(pasta):
         os.mkdir(pasta)
         os.chdir(pasta)
 
-    return str(pasta).upper()
+    return pasta
 
 def calcula_Insumo(n1, n2):
     if n2 != 0:
@@ -191,14 +191,16 @@ def formata_arquivo(pasta):
             f.close()
             with open(nomeJson, 'w') as g:
                 json.dump(dic, g)
-                print(f'{dataCabecalhos[1]}: JSON gerado com sucesso')
+                print(f'{nomeJson}: JSON ok')
         else:
             pass
+
 def purgeFile(extensao, pasta):
-    pastA = ver_Pasta(pasta)
+    ver_Pasta(pasta)
     ext = str(f'.{extensao}')
     lista = os.listdir()
     for file in lista:
-        x = str(file).endswith(extensao)
+        x = str(file).endswith(ext)
         if x:
+            print(f'{file}: excluido')
             os.remove(file)
