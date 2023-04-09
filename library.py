@@ -51,35 +51,35 @@ def tempo():
     return estampa
 
 def coleta_Snmp(ipi, ipf, pasta):
+    ver_Pasta(pasta)
     cadeia, inicio, faixa = faixa_Ip(ipi,ipf)
     for x in range(inicio, inicio + faixa):
-        ver_Pasta(pasta)
         ip = f'{cadeia}.{str(x)}'
         arquivo = f'{pasta}_{ip}.txt'
 
-        ping = os.system(f'ping -n 1 {ip} > null')
+        ping = os.system(f'ping -c 1 -w 1 -q {ip} > /dev/null')
 
         if ping == 0:
             hora = tempo()
-            arquivo = ver_Arquivo(arquivo)
+
             print(f'{ip}: Sucesso')
-            arquivo.write(f'STRING: "{hora}"\n')
-            arquivo.write(f'STRING: "{ip}"\n')
-            arquivo.close
-            # snmp(ip,arquivo)
+            f = ver_Arquivo(arquivo)
+            f.write(f'STRING: "{hora}"\n')
+            f.write(f'STRING: "{ip}"\n')
+            f.close()
+            snmp(ip,arquivo)
         else:
             print(f'{ip}: Falha')
-        os.chdir('..')
 
 def ver_Arquivo(arquivo):
     existe = os.path.exists(arquivo)
     if existe:
         os.remove(arquivo)
-        arquivo = open(arquivo, 'at')
+        f = open(arquivo, 'at')
     else:
-        arquivo = open(arquivo, 'at')
+        f = open(arquivo, 'at')
 
-    return arquivo
+    return str(f).upper()
 
 def ver_Pasta(pasta):
     existe = os.path.exists(pasta)
@@ -89,7 +89,7 @@ def ver_Pasta(pasta):
         os.mkdir(pasta)
         os.chdir(pasta)
 
-    return pasta
+    return str(pasta).upper()
 
 def calcula_Insumo(n1, n2):
     if n2 != 0:
@@ -116,7 +116,8 @@ def cores(cor):
     return cor
 
 def formata_arquivo(pasta):
-    arquivos = os.listdir(pasta)
+    pastA = ver_Pasta(pasta)
+    arquivos = os.listdir()
     for arquivo in arquivos:
         f = open(arquivo,'r')
         listaSuja = []
@@ -138,21 +139,21 @@ def formata_arquivo(pasta):
         listaSujaTam = len(listaSuja)
 
         dic = {'Data':'',
-               'IP':'',
-               'Fabricante':'',
-               'Modelo':'',
-               'Hostname':'',
-               'SerialNumber':'',
-               'Suprimentos':''}
+                'IP':'',
+                'Fabricante':'',
+                'Modelo':'',
+                'Hostname':'',
+                'SerialNumber':'',
+                'Suprimentos':''}
 
         dataCabecalhos = []
         consumoSuprimentos = []
 
         if listaSujaTam > 6:
             cabecalhoTam = len(listaSuja)-6
-            suprimentosTam = int(cabecalhoTam)
+            suprimentosTam = int(cabecalhoTam/3)
 
-            divideSubListaSuja = [listaSuja[i:i + suprimentosTam] for i in range(5,listaSujaTam,suprimentosTam)]
+            divideSubListaSuja = [listaSuja[i:i + suprimentosTam] for i in range(6,listaSujaTam,suprimentosTam)]
 
             if not 'Amarelo' or not 'Ciano' or not 'Magenta' in divideSubListaSuja[0]:
                 a = 0
@@ -186,10 +187,18 @@ def formata_arquivo(pasta):
             juntaLista = {i:j for i,j in zip(divideSubListaSuja[0],consumoSuprimentos)}
             dic['Suprimentos'] = juntaLista
 
-            nomeJson = f'{pasta}_{dataCabecalhos[1]}.json'
+            nomeJson = f'{pastA}_{dataCabecalhos[1]}.json'
             f.close()
             with open(nomeJson, 'w') as g:
-                json.dumps(dic, g)
+                json.dump(dic, g)
+                print(f'{dataCabecalhos[1]}: JSON gerado com sucesso')
         else:
             pass
-    os.chdir('..')
+def purgeFile(extensao, pasta):
+    pastA = ver_Pasta(pasta)
+    ext = str(f'.{extensao}')
+    lista = os.listdir()
+    for file in lista:
+        x = str(file).endswith(extensao)
+        if x:
+            os.remove(file)
