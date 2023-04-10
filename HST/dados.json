@@ -1,0 +1,676 @@
+{
+    "Equipamento": {
+        "Data": "09-04-2023 15:15:55",
+        "IP": "10.7.22.11",
+        "Fabricante": "Samsung Electronics Ltd",
+        "Modelo": "Samsung M458x Series",
+        "Hostname": "P1ASEPLA01",
+        "SerialNumber": "07K3B07K7132BVA",
+        "Suprimentos": {
+            "Preto": 96
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:17:23",
+        "IP": "10.7.22.110",
+        "Fabricante": "HP",
+        "Modelo": "HP LaserJet Pro 4003dw",
+        "Hostname": "HPDA12F5",
+        "SerialNumber": "BRBSQC20JZ",
+        "Suprimentos": {
+            "Preto": 41
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:15:56",
+        "IP": "10.7.22.12",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P2AUISAC01",
+        "SerialNumber": "ZDEJB07K7235TLA",
+        "Suprimentos": {
+            "Preto": 25
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:15:57",
+        "IP": "10.7.22.13",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P4AUIPED01",
+        "SerialNumber": "ZDEJBQAH5000RDM",
+        "Suprimentos": {
+            "Preto": 31
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:15:57",
+        "IP": "10.7.22.14",
+        "Fabricante": "Samsung Electronics Ltd",
+        "Modelo": "Samsung M408x Series",
+        "Hostname": "SEC30CDA7CBD433",
+        "SerialNumber": "088WBQBH8000ABM",
+        "Suprimentos": {
+            "Preto": 22
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:18:03",
+        "IP": "10.7.22.150",
+        "Fabricante": "Hewlett-Packard",
+        "Modelo": "HP LaserJet E50145",
+        "Hostname": "HP LaserJet E50145",
+        "SerialNumber": "BRBSND330K",
+        "Suprimentos": {
+            "Preto": 75
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:18:03",
+        "IP": "10.7.22.151",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "SEC30CDA7CAAF2C",
+        "SerialNumber": "ZER4BQAG7000C7E",
+        "Suprimentos": {
+            "Preto": 34
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:15:59",
+        "IP": "10.7.22.16",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "SEC30CDA7CBB35C",
+        "SerialNumber": "ZDDPBQAH7000QRB",
+        "Suprimentos": {
+            "Preto": 93
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:00",
+        "IP": "10.7.22.17",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P1AENPLA11",
+        "SerialNumber": "ZEQYBQAG60016ZN",
+        "Suprimentos": {
+            "Preto": 50
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:00",
+        "IP": "10.7.22.18",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P2ASEIMV01",
+        "SerialNumber": "ZDEJBQAH5000R1B",
+        "Suprimentos": {
+            "Preto": 16
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:01",
+        "IP": "10.7.22.19",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P2ASEFAR01",
+        "SerialNumber": "ZDEJBQAH5000QVV",
+        "Suprimentos": {
+            "Preto": 85
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:03",
+        "IP": "10.7.22.22",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P1ASEPAS01",
+        "SerialNumber": "ZDEJBQAH5000V1T",
+        "Suprimentos": {
+            "Preto": 5
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:04",
+        "IP": "10.7.22.23",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P1ASENED02",
+        "SerialNumber": "ZDEJBQAJ3001PXR",
+        "Suprimentos": {
+            "Preto": 83
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:05",
+        "IP": "10.7.22.24",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P2ASUGEN01",
+        "SerialNumber": "ZDEJBQAJ200332J",
+        "Suprimentos": {
+            "Preto": 89
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:05",
+        "IP": "10.7.22.25",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "SEC842519C21275",
+        "SerialNumber": "ZDEJB07K211J8LA.",
+        "Suprimentos": {
+            "Preto": 91
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:06",
+        "IP": "10.7.22.26",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "SEC842519C34F6D",
+        "SerialNumber": "ZDEJBQAH5000FJK.",
+        "Suprimentos": {
+            "Preto": 3
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:06",
+        "IP": "10.7.22.27",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P3AUISAG02",
+        "SerialNumber": "ZEQYBQAG600166Z",
+        "Suprimentos": {
+            "Preto": 0
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:06",
+        "IP": "10.7.22.28",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P3AUINOP01",
+        "SerialNumber": "ZDEJBQAH5000ZHF",
+        "Suprimentos": {
+            "Preto": 22
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:07",
+        "IP": "10.7.22.29",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P4AUSAI01",
+        "SerialNumber": "ZDEJB07K6230PFA",
+        "Suprimentos": {
+            "Preto": 0
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:07",
+        "IP": "10.7.22.30",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P5AUINOF01",
+        "SerialNumber": "ZDEJBQAH5000THT",
+        "Suprimentos": {
+            "Preto": 23
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:09",
+        "IP": "10.7.22.32",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung ML-451x 501x Series",
+        "Hostname": "SEC842519A791A8",
+        "SerialNumber": "07JLBQBH1000H8M.",
+        "Suprimentos": {
+            "Preto": 1
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:11",
+        "IP": "10.7.22.35",
+        "Fabricante": "HP",
+        "Modelo": "HP Laser MFP 432fdn",
+        "Hostname": "P2AUIMAR01",
+        "SerialNumber": "BRBSN7PK4S",
+        "Suprimentos": {
+            "Preto": 89
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:11",
+        "IP": "10.7.22.36",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung ML-451x 501x Series",
+        "Hostname": "P2ASEFAR02",
+        "SerialNumber": "07JLBQBG70003YL",
+        "Suprimentos": {
+            "Preto": 1
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:13",
+        "IP": "10.7.22.38",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P2ASEGEQ01",
+        "SerialNumber": "ZDDPBQAH80019JV",
+        "Suprimentos": {
+            "Preto": 82
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:13",
+        "IP": "10.7.22.39",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P2ASEGEC01",
+        "SerialNumber": "ZDDPBQAH7000PXN",
+        "Suprimentos": {
+            "Preto": 44
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:14",
+        "IP": "10.7.22.40",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "SEC30CDA75E1809",
+        "SerialNumber": "ZER4BQAG2000DJV",
+        "Suprimentos": {
+            "Preto": 89
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:15",
+        "IP": "10.7.22.41",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P2ASECIH01",
+        "SerialNumber": "ZDDPBQAH7000P9D",
+        "Suprimentos": {
+            "Preto": 54
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:16",
+        "IP": "10.7.22.43",
+        "Fabricante": "Samsung Electronics Ltd",
+        "Modelo": "Samsung M458x Series",
+        "Hostname": "P1ASEAPE01",
+        "SerialNumber": "07K3B07K7132FGA.",
+        "Suprimentos": {
+            "Preto": 20
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:17",
+        "IP": "10.7.22.44",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P1ASESET01",
+        "SerialNumber": "ZDEJBQAGA000A3Z",
+        "Suprimentos": {
+            "Preto": 91
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:17",
+        "IP": "10.7.22.45",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "SEC84251921B7CB",
+        "SerialNumber": "ZDBDBJFJ80002TD",
+        "Suprimentos": {
+            "Preto": 76
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:18",
+        "IP": "10.7.22.46",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P1ASEALF01",
+        "SerialNumber": "ZDEJBQAH5000R4J",
+        "Suprimentos": {
+            "Preto": 35
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:18",
+        "IP": "10.7.22.47",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "SEC842519B095F3",
+        "SerialNumber": "ZER4BQAG2000DPH.",
+        "Suprimentos": {
+            "Preto": 26
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:19",
+        "IP": "10.7.22.48",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P1ASECOS01",
+        "SerialNumber": "ZDDPB07JC10VL1K",
+        "Suprimentos": {
+            "Preto": 57
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:20",
+        "IP": "10.7.22.49",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P1ASEALF03",
+        "SerialNumber": "ZDEJBQAH5000V3M",
+        "Suprimentos": {
+            "Preto": 37
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:20",
+        "IP": "10.7.22.50",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P1ASEINP01",
+        "SerialNumber": "ZDDPBQAH7000QEN",
+        "Suprimentos": {
+            "Preto": 45
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:21",
+        "IP": "10.7.22.52",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P4ASENED06",
+        "SerialNumber": "ZDEJB07K6230KQA",
+        "Suprimentos": {
+            "Preto": 86
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:22",
+        "IP": "10.7.22.53",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung ML-451x 501x Series",
+        "Hostname": "BKPSETIN01",
+        "SerialNumber": "07JLBQBG70004JK",
+        "Suprimentos": {
+            "Preto": 67
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:23",
+        "IP": "10.7.22.55",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P3ASEFAT04",
+        "SerialNumber": "ZDDPBQAH800165D",
+        "Suprimentos": {
+            "Preto": 0
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:25",
+        "IP": "10.7.22.57",
+        "Fabricante": "HP",
+        "Modelo": "HP Color LaserJet Pro MFP M479fdw",
+        "Hostname": "HP41A70A",
+        "SerialNumber": "CNCRQ1K2Y5",
+        "Suprimentos": {
+            "Preto": 36,
+            "Ciano": 97,
+            "Magenta": 63,
+            "Amarelo": 9
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:27",
+        "IP": "10.7.22.59",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P1ASETES01",
+        "SerialNumber": "ZDDPBQAH7000QBP",
+        "Suprimentos": {
+            "Preto": 16
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:27",
+        "IP": "10.7.22.60",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P1ASEINP01",
+        "SerialNumber": "ZDBDBJFJ5000B3T",
+        "Suprimentos": {
+            "Preto": 74
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:29",
+        "IP": "10.7.22.61",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung ML-451x 501x Series",
+        "Hostname": "CEFEC01",
+        "SerialNumber": "07JLBQBG70004HB",
+        "Suprimentos": {
+            "Preto": 28
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:29",
+        "IP": "10.7.22.62",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "SEC30CDA7CB7010",
+        "SerialNumber": "ZDEJBQAH5000TSB",
+        "Suprimentos": {
+            "Preto": 78
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:29",
+        "IP": "10.7.22.63",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung ML-451x 501x Series",
+        "Hostname": "SEC30CDA7CA978F",
+        "SerialNumber": "07JLBQBG6000R7Z",
+        "Suprimentos": {
+            "Preto": 1
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:32",
+        "IP": "10.7.22.66",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P1ASEPLA02",
+        "SerialNumber": "ZDDPB07JC10VLGK",
+        "Suprimentos": {
+            "Preto": 60
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:32",
+        "IP": "10.7.22.67",
+        "Fabricante": "Samsung Electronics Ltd",
+        "Modelo": "Samsung M458x Series",
+        "Hostname": "P2ASEGEP01",
+        "SerialNumber": "07K3B07K7132FAA",
+        "Suprimentos": {
+            "Preto": 54
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:33",
+        "IP": "10.7.22.68",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung ML-451x 501x Series",
+        "Hostname": "SEC30CDA7CA1E69",
+        "SerialNumber": "07JLBQBG5000F5H",
+        "Suprimentos": {
+            "Preto": 53
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:34",
+        "IP": "10.7.22.69",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "SEC842519660CDA",
+        "SerialNumber": "ZDDPBQAH7000Q3V.",
+        "Suprimentos": {
+            "Preto": 87
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:35",
+        "IP": "10.7.22.70",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "SEC842519A41ABC",
+        "SerialNumber": "ZDDPBQAH7000QDX.",
+        "Suprimentos": {
+            "Preto": 100
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:43",
+        "IP": "10.7.22.78",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung ML-451x 501x Series",
+        "Hostname": "P1ACEMED01",
+        "SerialNumber": "07JLBQBH1000E9F",
+        "Suprimentos": {
+            "Preto": 20
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:43",
+        "IP": "10.7.22.79",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "P1ADITEC01",
+        "SerialNumber": "ZDDPBQAH500161P",
+        "Suprimentos": {
+            "Preto": 76
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:48",
+        "IP": "10.7.22.84",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "P2ASEFIS01",
+        "SerialNumber": "ZDEJBQAH5000ZAP",
+        "Suprimentos": {
+            "Preto": 14
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:50",
+        "IP": "10.7.22.86",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "SEC8425191B2926",
+        "SerialNumber": "ZDEJBQAJ5000CVR",
+        "Suprimentos": {
+            "Preto": 34
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:53",
+        "IP": "10.7.22.90",
+        "Fabricante": "Samsung Electronics Ltd",
+        "Modelo": "Samsung M458x Series",
+        "Hostname": "P1ACEMED01",
+        "SerialNumber": "07K3B07K7132C1A",
+        "Suprimentos": {
+            "Preto": 15
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:16:54",
+        "IP": "10.7.22.91",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M332x 382x 402x Series",
+        "Hostname": "SEC30CDA7FFC756",
+        "SerialNumber": "ZDEJBQAJ20032ST",
+        "Suprimentos": {
+            "Preto": 30
+        }
+    }
+}{
+    "Equipamento": {
+        "Data": "09-04-2023 15:17:02",
+        "IP": "10.7.22.99",
+        "Fabricante": "Samsung Electronics",
+        "Modelo": "Samsung M337x 387x 407x Series",
+        "Hostname": "SEC8425191D0DC4",
+        "SerialNumber": "ZDDPB07JC10V1MK",
+        "Suprimentos": {
+            "Preto": 97
+        }
+    }
+}

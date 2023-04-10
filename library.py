@@ -204,3 +204,14 @@ def purgeFile(extensao, pasta):
         if x:
             print(f'{file}: excluido')
             os.remove(file)
+
+def criajson(pasta):
+    ver_Pasta(pasta)
+    x = os.listdir()
+    dados_json = {'Equipamento':""}
+    for file in x:
+        with open(file, 'r+') as f:
+            fdata = json.load(f)
+            dados_json.update({'Equipamento':fdata})
+            with open('dados.json', 'a+') as saida:
+                json.dump(dados_json, saida, indent=4)
