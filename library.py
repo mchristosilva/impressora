@@ -141,7 +141,8 @@ def formata_arquivo(pasta):
 
             listaSujaTam = len(listaSuja)
 
-            dic = {'Data':'',
+            dic = {'Casa':'',
+                    'Data':'',
                     'IP':'',
                     'Fabricante':'',
                     'Modelo':'',
@@ -164,6 +165,7 @@ def formata_arquivo(pasta):
                     a = 3
 
                 k = len(divideSubListaSuja[0])-1
+
                 while k != a:
                     divideSubListaSuja[0].pop(k)
                     divideSubListaSuja[1].pop(k)
@@ -172,6 +174,7 @@ def formata_arquivo(pasta):
 
                 subLista1Tam = len(divideSubListaSuja[1])
                 subLista2Tam = len(divideSubListaSuja[2])
+
                 if subLista1Tam == subLista2Tam:
                     for i in range(0,subLista1Tam):
                         valor = calcula_Insumo(divideSubListaSuja[1][i],divideSubListaSuja[2][i])
@@ -180,6 +183,7 @@ def formata_arquivo(pasta):
                 for i in range(0,6):
                     dataCabecalhos.append(listaSuja[i])
 
+                dic['Casa'] = pastA
                 dic['Data'] = dataCabecalhos[0]
                 dic['IP'] = dataCabecalhos[1]
                 dic['Fabricante'] = dataCabecalhos[2]
@@ -189,9 +193,13 @@ def formata_arquivo(pasta):
 
                 juntaLista = {i:j for i,j in zip(divideSubListaSuja[0],consumoSuprimentos)}
 
+                u=(len (juntaLista))
+                
+                if u == 1:
+                    juntaLista.update({'2Ciano':'','3Magenta':'','4Amarelo':''})
+                
                 juntaLista = collections.OrderedDict(sorted(juntaLista.items()))
 
-                print (juntaLista)
                 dic['Suprimentos'] = juntaLista
 
                 nomeJson = f'{pastA}_{dataCabecalhos[1]}.json'
