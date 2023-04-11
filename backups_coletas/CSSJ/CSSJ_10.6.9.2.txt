@@ -1,0 +1,54 @@
+STRING: "11-04-2023 12:04:21"
+STRING: "10.6.9.2"
+STRING: "KONICA MINOLTA"
+STRING: "KONICA MINOLTA bizhub C258"
+""
+STRING: "A7R0011004657"
+STRING: "Toner (Cyan)"
+STRING: "Toner (Magenta)"
+STRING: "Toner (Yellow)"
+STRING: "Toner (Black)"
+STRING: "Drum Cartridge (Cyan)"
+STRING: "Developer Cartridge (Cyan)"
+STRING: "Drum Cartridge (Magenta)"
+STRING: "Developer Cartridge (Magenta)"
+STRING: "Drum Cartridge (Yellow)"
+STRING: "Developer Cartridge (Yellow)"
+STRING: "Drum Cartridge (Black)"
+STRING: "Developer Cartridge (Black)"
+STRING: "Waste Toner Box"
+STRING: "Fusing Unit"
+STRING: "Image Transfer Belt Unit"
+STRING: "Transfer Roller Unit"
+INTEGER: 7
+INTEGER: 9
+INTEGER: 97
+INTEGER: 39
+INTEGER: 74
+INTEGER: 50
+INTEGER: 74
+INTEGER: 50
+INTEGER: 74
+INTEGER: 50
+INTEGER: 49
+INTEGER: 48
+INTEGER: -3
+INTEGER: 95
+INTEGER: 85
+INTEGER: 89
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: -2
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100

@@ -1,0 +1,18 @@
+STRING: "11-04-2023 11:58:26"
+STRING: "10.6.8.53"
+STRING: "Hewlett-Packard"
+STRING: "HP LaserJet MFP E62655"
+STRING: "HP LaserJet MFP E62655"
+STRING: "BRBSPC20NS"
+STRING: "Cartucho preto HP W9004MC."
+STRING: "Kit de manuten....o HP 110V-J8J87A, 220V-J8J88A."
+STRING: "Kit aliment. documentos HP J8J95A."
+STRING: "Limpar cilindros do alim. documentos HP None."
+INTEGER: 95
+INTEGER: 2
+INTEGER: 100
+INTEGER: 98
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100

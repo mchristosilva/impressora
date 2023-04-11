@@ -1,0 +1,30 @@
+STRING: "11-04-2023 11:58:43"
+STRING: "10.6.8.57"
+STRING: "Hewlett-Packard"
+STRING: "HP Color LaserJet MFP E57540"
+STRING: "HP Color LaserJet MFP E57540"
+STRING: "BRBSQ4T09R"
+STRING: "Cartucho preto HP W9060MC."
+STRING: "Cartucho ciano HP W9061MC."
+STRING: "Cartucho magenta HP 508A (CF363A)."
+STRING: "Cartucho amarelo HP W9062MC."
+STRING: "Kit do fusor HP 110V-B5L35A, 220V-B5L36A."
+STRING: "Unidade de coleta de toner HP B5L37A."
+STRING: "Kit aliment. documentos HP B5L52A."
+STRING: "Limpar cilindros do alim. documentos HP None."
+INTEGER: 35
+INTEGER: 98
+INTEGER: 11
+INTEGER: 86
+INTEGER: 63
+INTEGER: -3
+INTEGER: 79
+INTEGER: 58
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
+INTEGER: -2
+INTEGER: 100
+INTEGER: 100
