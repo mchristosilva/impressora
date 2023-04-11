@@ -1,0 +1,15 @@
+STRING: "11-04-2023 12:14:34"
+STRING: "10.20.22.37"
+STRING: "Hewlett-Packard"
+STRING: "HP LaserJet MFP E52645"
+STRING: "HP LaserJet MFP E52645"
+STRING: "BRBSN2RKQM"
+STRING: "Cartucho preto HP W9008MC."
+STRING: "Kit aliment. documentos HP B5L52A."
+STRING: "Limpar cilindros do alim. documentos HP None."
+INTEGER: 73
+INTEGER: 95
+INTEGER: 90
+INTEGER: 100
+INTEGER: 100
+INTEGER: 100
